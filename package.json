@@ -1,0 +1,26 @@
+{
+  "name": "13.01.22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "start-dev": "npx nodemon node."
+
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express":"4.17.2",
+    "moment":"2.29.1",
+    "fs-extra": "10.0.0",
+    "validator": "13.7.0",
+    "mongodb": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon":"2.0.15"
+  }
+  
+}
