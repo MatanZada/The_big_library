@@ -29,7 +29,7 @@ example: [
 
 Create an index.js file.
 Create a express app inside it.
-Please create a route '/' on this route return an html string <h1>Wellcone to the library</h1>
+Please create a route '/' on this route return an html string *<h1>* Wellcone to the library*</h1>*
 Create a route called /books and return the content of the books file.
 If in the /books file there is a url param id - return the spefice book with this id (http://localhost/books?id=1 returns the book with the id 1).
 If in the /books file there is a url param name - return the spefice book with this name (http://localhost/books?name=the ring returns the book with the name the ring).
